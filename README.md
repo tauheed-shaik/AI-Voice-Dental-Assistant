@@ -1,6 +1,6 @@
 <h1 align="center">🦷 Dentwise – Dental Platform with AI Voice Agent 🦷</h1>
 
-![Demo App](https://drive.google.com/file/d/12lXoMxtxeFvnydvz6eoylVl-XT_cQbXd/view?usp=sharing)
+![Demo App](/public/img.png)
 
 Highlights:
 
